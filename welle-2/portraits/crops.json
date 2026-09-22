@@ -1,1 +1,130 @@
-{"team-01.jpg": {"crop": [435, 253, 710, 947], "face_y": 0.4, "face_w": 0.38}, "team-02.jpg": {"crop": [495, 473, 664, 885], "face_y": 0.4, "face_w": 0.41}, "team-03.jpg": {"crop": [583, 195, 753, 1005], "face_y": 0.4, "face_w": 0.31}, "team-04.jpg": {"crop": [561, 424, 582, 776], "face_y": 0.4, "face_w": 0.39}, "team-05.jpg": {"crop": [513, 68, 727, 969], "face_y": 0.4, "face_w": 0.28}, "team-06.jpg": {"crop": [364, 0, 856, 1141], "face_y": 0.4, "face_w": 0.29}, "team-07.jpg": {"crop": [172, 106, 821, 1094], "face_y": 0.4, "face_w": 0.33}, "team-08-alcira.jpg": {"crop": [554, 305, 671, 895], "face_y": 0.4, "face_w": 0.3}}
+{
+ "team-01.jpg": {
+  "eye": 0.38,
+  "crop": [
+   383,
+   181,
+   814,
+   1085
+  ],
+  "face_h": 347,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.06
+  }
+ },
+ "team-02.jpg": {
+  "eye": 0.38,
+  "crop": [
+   389,
+   336,
+   876,
+   1168
+  ],
+  "face_h": 373,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.125
+  }
+ },
+ "team-03.jpg": {
+  "eye": 0.38,
+  "crop": [
+   593,
+   183,
+   734,
+   979
+  ],
+  "face_h": 313,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.0
+  }
+ },
+ "team-04.jpg": {
+  "eye": 0.38,
+  "crop": [
+   473,
+   306,
+   759,
+   1012
+  ],
+  "face_h": 323,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.117
+  }
+ },
+ "team-05.jpg": {
+  "eye": 0.38,
+  "crop": [
+   574,
+   112,
+   605,
+   807
+  ],
+  "face_h": 258,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.0
+  }
+ },
+ "team-06.jpg": {
+  "eye": 0.38,
+  "crop": [
+   384,
+   10,
+   816,
+   1088
+  ],
+  "face_h": 348,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.0
+  }
+ },
+ "team-07.jpg": {
+  "eye": 0.38,
+  "crop": [
+   163,
+   80,
+   840,
+   1120
+  ],
+  "face_h": 358,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.0
+  }
+ },
+ "team-08-alcira.jpg": {
+  "eye": 0.38,
+  "crop": [
+   562,
+   292,
+   654,
+   872
+  ],
+  "face_h": 278,
+  "pad": {
+   "top": 0.0,
+   "left": 0.0,
+   "right": 0.0,
+   "bottom": 0.0
+  }
+ }
+}
