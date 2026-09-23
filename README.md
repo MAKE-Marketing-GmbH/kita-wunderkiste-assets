@@ -42,3 +42,18 @@ All other `CAMC*.webp` files: real moments from the kindergarten — kids playin
 ## License
 
 Photos © Kita Wunderkiste — used with permission for the official website rebuild only.
+
+## Team-Porträts, professionell aufgewertet (23.09.2026)
+
+Quelle: Monias Handyfotos vom 17.09. (Inhalt). Stil: unser Shooting vor derselben Weltkarten-Wand (CAMC1937, CAMC1916). Prompt: `welle-2/team-pro/prompt.txt`. 4k-PNG-Originale nur lokal, im Repo die 900×1200-Zuschnitte (Augenlinie 38 %, Gesicht 32 % der Höhe). Identität je Bild per Gesichtsabgleich Original gegen Ergebnis geprüft (Cosinus 0.89–0.96).
+
+| Datei | typ | motiv (deutscher Bildtext) | style | modell | refs | quelle | datum |
+|---|---|---|---|---|---|---|---|
+| welle-2/team-pro/team-01.webp | Team-Porträt | Monia Polizzi lächelt vor der bunten Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-01.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-02.webp | Team-Porträt | Ajda Gebremariam lächelt vor der bunten Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-02.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-03.webp | Team-Porträt | Clarissa Greco mit Brille lächelt vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-03.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-04.webp | Team-Porträt | Rafaela Fritz mit Zopf lächelt vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-04.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-05.webp | Team-Porträt | Devan Ethan Mulosi lächelt vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-05.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-06.webp | Team-Porträt | Michael Binz mit Brille und verschränkten Armen vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-06.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-07.webp | Team-Porträt | Barbara Valente mit Brille und Locken lächelt vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-07.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
+| welle-2/team-pro/team-08-alcira.webp | Team-Porträt | Alcira lächelt vor der Weltkarten-Wand | 85 mm, f/2.8, weiches Fensterlicht | gpt_image_2_5 sunburst 4k high | team-08-alcira.jpg, CAMC1937, CAMC1916 | generiert | 2026-09-23 |
