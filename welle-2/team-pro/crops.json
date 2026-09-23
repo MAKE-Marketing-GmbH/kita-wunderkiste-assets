@@ -1,0 +1,66 @@
+{
+ "team-01.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.382,
+  "gesicht": 0.314
+ },
+ "team-02.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.378,
+  "gesicht": 0.326
+ },
+ "team-03.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.383,
+  "gesicht": 0.313
+ },
+ "team-04.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.386,
+  "gesicht": 0.318
+ },
+ "team-05.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.38,
+  "gesicht": 0.321
+ },
+ "team-06.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.378,
+  "gesicht": 0.316
+ },
+ "team-07.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.384,
+  "gesicht": 0.318
+ },
+ "team-08-alcira.webp": {
+  "top": 0.0,
+  "left": 0.0,
+  "right": 0.0,
+  "bottom": 0.0,
+  "augenlinie": 0.384,
+  "gesicht": 0.308
+ }
+}

@@ -1,0 +1,6 @@
+Inhaltkontext: the woman in image 1. Keep her exact identity, face, facial features, skin, age, hairstyle, glasses, expression, clothing and the painted world-map wall behind her from image 1. Do not invent or beautify the person, do not change her face shape, do not smooth the skin.
+She stands facing the camera in a relaxed half-body portrait in front of the illustrated world-map wall of the daycare, same pose and framing as image 1, head and shoulders plus upper torso, centered, with some space above the head.
+Camera: full-frame camera, 85mm lens, f/2.8, medium distance, sharp focus on the eyes, the wall softly out of focus, natural perspective, no smartphone look, no wide-angle distortion.
+Light: soft, even daylight from a large window at the front-left, gentle fill, clean catchlights in the eyes, no harsh shadows, no flash look.
+Grade: flat neutral, true-to-life color and warm natural skin tones, clean whites. No teal-orange film look, no HDR, no oversharpening.
+Stilkontext: images 2 and 3 are professional photos from the same daycare, taken in front of the same world-map wall. Match only their camera, lens, light, color and overall quality. Ignore the people in images 2 and 3.
